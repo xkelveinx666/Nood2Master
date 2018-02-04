@@ -4,6 +4,7 @@
 * [Introduction](README.md)
 * [网站](website/introduce.md)
     * [软件开发流程](website/flow.md)
+    * [建站要求](website/requirement.md)
 * [服务器](server/introduce.md)
     * [服务器购买](server/buy.md)
     * [主要功能介绍](server/menu.md)
