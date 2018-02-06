@@ -14,6 +14,7 @@
 - xml类似于html比较严格，而且有很明显的树形结构
 - properties
 ## json与x-www-form-urlencoded
+在网络传输中
 ## Restful                                                            
 ## BS模式
 ## MVC模式
